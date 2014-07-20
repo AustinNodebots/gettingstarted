@@ -1,15 +1,14 @@
-## Welcome to JSConf 2014!
+# Welcome to Austin NodeBots Day 2014!
 
-### What are we doing today?
+## What are we doing today?
 
+### Hacking on Nodebots
+Undoubtedly you will need WIFI information since your SparkCore's use WIFI to communicate.  The wifi connection information should be on a card on your table. If you need help with it find Kasandra or Ray.
+
+### SoccerBot Project
 Nodebots has [soccer bots](https://www.youtube.com/watch?v=CcCwjnWBoJ8&feature=youtu.be) and anything you wants bots today.
 
-
-### Parts
-Parts are in the parts library. We all have to share. Please return what you are no longer using. And we'll all have to return everything (besides your sparkcore inventors kit) at the end of the day.
-
-
-### Getting started
+## Getting started
 
 How do I get started with with [Node](http://nodejs.org/) on [Spark](https://www.spark.io/)?
 
@@ -29,13 +28,8 @@ Follow the directions. Take note of your token and core id and save it for later
 
 ```Your core id is: DEADBEEFDEADBEEFDEADBEEF```
 
-It will ask you for WiFi information, so enter the following
+It will ask you for WiFi information, use the information printed on the cards on your table.
 
-```
-SSID jsconf2014
-Security: WPA2
-Wifi Password: OMGJSConf
-```
 
 * Next, in order for spark to be able to talk to node, you should flash it with the [voodoospark](https://github.com/voodootikigod/voodoospark) firmware.
 
